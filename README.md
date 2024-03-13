@@ -46,3 +46,39 @@ The design decisions made for the quiz site mockup prioritize a clean, visually 
 
 This design approach aligns with the project goals of creating an engaging and accessible platform for users to test their knowledge.
 
+
+---
+
+Here's the report for your Capstone Project - Part 3:
+
+---
+
+# Capstone Project - Part 3 Prototype Report
+
+## Overview
+For Part 3 of the Capstone Project, a prototype of the web application was developed using HTML, CSS, and optionally JavaScript. The prototype closely aligns with the mockup completed in Part 2 and is designed to be responsive across various devices.
+
+## Steps Taken
+1. Creating Branch Structure:A new branch, `part-3`, was created from the `part-2` branch to maintain version control and isolate changes specific to Part 3 development.
+
+2. Setting Up HTML and CSS Files: The prototype includes one HTML file (`index.html`) and one CSS file (`style.css`). The HTML file defines the structure of the web application, while the CSS file handles the styling to closely match the mockup.
+
+3. Leveraging Bootstrap for Responsive Design: Bootstrap, a modern CSS framework, was utilized to ensure responsiveness across different screen sizes. Bootstrap's grid system and utility classes facilitated the layout design and ensured consistency in styling.
+
+4. Matching Mockup Design:The prototype closely adheres to the design elements specified in the mockup completed in Part 2. This includes typography, colors, layout structure, and interactive elements.
+
+5. Optional JavaScript Integration:While not mandatory, an optional JavaScript file (`script.js`) may be added to the project to enhance interactivity or functionality as needed. This includes features such as form validation, dynamic content loading, or user interface enhancements.
+
+## Resources Used
+- Bootstrap: The Bootstrap CSS framework was leveraged for its grid system, responsive utilities, and pre-designed components, streamlining the development process and ensuring a consistent design across different devices.
+- Mockup from Part 2: The mockup completed in Part 2 served as a reference point for designing the prototype, ensuring consistency in visual elements and layout.
+
+
+## Challenges Faced
+1. Responsive Design Challenges:Ensuring responsiveness across various devices posed challenges, particularly in adjusting layout and styling for smaller screens while maintaining readability and usability.
+
+2. Integration of External Libraries:While Bootstrap was used for styling, integrating additional JavaScript libraries for enhanced functionality required careful consideration of compatibility and performance implications.
+
+3. Maintaining Consistency with Mockup:Ensuring the prototype closely matched the design elements specified in the mockup required attention to detail and frequent reference to the mockup for comparison.
+
+---
